@@ -1,0 +1,21 @@
+{
+  "name": "interval-runner",
+  "description": "This will be an web application for my personal use of intervals running workouts.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalesouza/interval-runner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalesouza/interval-runner/issues"
+  },
+  "homepage": "https://github.com/thalesouza/interval-runner#readme"
+}
